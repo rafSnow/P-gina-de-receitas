@@ -47,3 +47,15 @@ h2 {
 ul {
   margin-left: 24px;
 }
+
+footer {
+  color: #573a37;
+  text-align: center;
+  padding-bottom: 48px;
+  line-height: 150%; /* 24px */
+}
+
+svg {
+  gap: 4px;
+  vertical-align: middle;
+}
