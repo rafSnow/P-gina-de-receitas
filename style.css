@@ -59,3 +59,47 @@ svg {
   gap: 4px;
   vertical-align: middle;
 }
+
+@media (max-width: 768px) {
+  #page {
+    width: 90%;
+    padding: 16px;
+    margin: 24px auto;
+  }
+  img {
+    width: 100%;
+  }
+  h1 {
+    font-size: 32px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  main {
+    padding: 16px;
+  }
+  section {
+    padding: 16px 0;
+  }
+  footer {
+    padding-bottom: 24px;
+  }
+}
+@media (max-width: 480px) {
+  h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  #page {
+    padding: 12px;
+  }
+
+  main,
+  section {
+    padding: 12px;
+  }
+}
