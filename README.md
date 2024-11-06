@@ -39,7 +39,7 @@ https://github.com/rafSnow/Pagina-de-receitas.git
 
 ## 📸 Visualização do Projeto
 
-![Imagem do Projeto](C:\Users\rafael.nsouza\Pictures/Screenshots\Captura de tela 2024-11-06 112315.png)
+![Imagem do Projeto](assets\programa.png)
 
 ## 📝 Melhorias Futuras
 
